@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d8a553c.css",
+    "main.js": "/static/js/main.9212a862.js",
+    "static/js/787.4c9d15e8.chunk.js": "/static/js/787.4c9d15e8.chunk.js",
+    "static/media/tiktok.svg": "/static/media/tiktok.7f5c6b934b2307e2b49097012f37b7cf.svg",
+    "static/media/LINE.svg": "/static/media/LINE.51494eb5ada619d6d418318a018d2c7b.svg",
+    "static/media/instagram.svg": "/static/media/instagram.54dd491455a206fdfc3468a95a471090.svg",
+    "static/media/kakaotalk.svg": "/static/media/kakaotalk.28010f1c39dee2169d35c22f77cf66e8.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.ba1e28fce95752c54a8574ac778385d2.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.8668f749c24db992cd503e8b0ea8e619.svg",
+    "static/media/telegram.svg": "/static/media/telegram.2c71e43a0efcb8afa78290202e9a93bb.svg",
+    "static/media/pinterest.svg": "/static/media/pinterest.3301e6e211162d60e81040c044ea0d71.svg",
+    "static/media/google.svg": "/static/media/google.ff959371e1fedf0fe2cb07c1c9750620.svg",
+    "static/media/twitter.svg": "/static/media/twitter.f04d08e697e92880befc89f63c9d18d4.svg",
+    "static/media/facebook.svg": "/static/media/facebook.e100276c5fa1b6da0634e4805a8b6db2.svg",
+    "static/media/apple.svg": "/static/media/apple.49b06e56eeb02105bc46e4a7917bc16e.svg",
+    "index.html": "/index.html",
+    "main.3d8a553c.css.map": "/static/css/main.3d8a553c.css.map",
+    "main.9212a862.js.map": "/static/js/main.9212a862.js.map",
+    "787.4c9d15e8.chunk.js.map": "/static/js/787.4c9d15e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d8a553c.css",
+    "static/js/main.9212a862.js"
+  ]
+}
